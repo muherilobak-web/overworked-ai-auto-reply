@@ -1,0 +1,1 @@
+{"description":"Out of Office: the overworked AI's auto-reply — a single line written to /output/entry.txt","main":"main.ts","name":"overworked-ai-auto-reply","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
